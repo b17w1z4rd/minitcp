@@ -1,0 +1,14 @@
+# Build artifacts
+demo
+tap
+*.o
+*.out
+*.exe
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+__pycache__/
